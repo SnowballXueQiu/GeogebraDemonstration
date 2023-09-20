@@ -1,2 +1,3 @@
-# GeogebraDemonstration
- Multiple demonstration examples of Geogebra, in order to carry out mathematical teaching work
+# GeoGebra Demonstrations
+
+Multiple demonstration examples of GeoGebra, in order to carry out mathematical teaching work.
