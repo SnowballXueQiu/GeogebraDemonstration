@@ -16,4 +16,4 @@ As mentioned above.
 
 - :star: Relationship between straight lines and slopes [`Click to Jump`](https://www.geogebra.org/m/zwthjtcm)
 
-Exploring the relationship between straight lines and slopes by combining proportional and tangent functions。
+Exploring the relationship between straight lines and slopes by combining proportional and tangent functions.
